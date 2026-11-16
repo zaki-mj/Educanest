@@ -22,7 +22,7 @@ The platform provides real-time activity feeds, nutritional meal tracking, struc
 | **Academic Year** | **2024 / 2025** |
 | **Project Type** | **Multidisciplinary Project (Projet Pluridisciplinaire)** |
 | **Supervisor** | **Mr. Bedjaoui Mouhamed** |
-| **Project Report** | 📄 [**MULTIDISCIPLINARY PROJECT REPORT.pdf**](./MULTIDISCIPLINARY%20PROJECT%20REPORT.pdf) |
+| **Project Report** | [**MULTIDISCIPLINARY PROJECT REPORT.pdf**](./MULTIDISCIPLINARY%20PROJECT%20REPORT.pdf) |
 
 ### Project Team
 * **Boualdja Aymen**
